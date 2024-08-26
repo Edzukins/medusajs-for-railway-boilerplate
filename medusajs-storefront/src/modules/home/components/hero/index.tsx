@@ -16,14 +16,9 @@ const Hero = () => {
             level="h2"
             className="text-3xl leading-10 text-ui-fg-subtle font-normal"
           >
-            This is still under production?
+            This is still under production...
           </Heading>
         </span>
-        <div style={{ textAlign: 'center', margin: '20px 0' }}>
-          <h2 className="text-ui-fg-base" style={{ fontSize: '1.5em' }}>
-            New version alert: <a href="https://funkyton.com/medusajs-2-0-is-finally-here/" style={{ color: '#007bff', textDecoration: 'none' }}>medusa 2.0 has been released</a> ← Check it out!
-          </h2>
-        </div>
       </div>
     </div>
   )
